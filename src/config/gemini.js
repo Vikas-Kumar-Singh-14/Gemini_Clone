@@ -8,7 +8,7 @@ import {
 
 async function main(prompt) {
   const ai = new GoogleGenAI({
-    apiKey: 'AIzaSyAJU_SIirQGbj97J-nrDNCtq2XCLyHaq68',
+    apiKey: 'Api_key_here',
   });
   const config = {
     thinkingConfig: {
